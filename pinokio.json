@@ -1,0 +1,10 @@
+{
+  "title": "Stock Screener",
+  "description": "Custom stock screener with real-time data from Yahoo Finance. Filter by sector, market cap, P/E, dividend yield, and more.",
+  "links": [
+    {
+      "title": "GitHub",
+      "value": "https://github.com/ganekh-bit/screener"
+    }
+  ]
+}
